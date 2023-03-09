@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sameh Tarek</a></h1>
-<h3 align="center">A Software Engineer undergraduate &#127470;&#127475</h3>
+<h3 align="center">A Software Engineer undergraduate</h3>
 
 <div align="center">
         <img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' alt='developer' />

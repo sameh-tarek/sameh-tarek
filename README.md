@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sameh Tarek</a></h1>
-<h3 align="center">A Software Engineer undergraduate &#127470;&#127475</h3>
+<h3 align="center">A Software Engineer undergraduate</h3>
 
 <div align="center">
-        <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
+        <img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' alt='developer' />
 </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>

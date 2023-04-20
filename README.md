@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sameh-tarek-mohamed-766a0a234/" target="blank">
-Sameh Tarek</a></h1>
+<h1 align="center">Hi 👋, I'm Sameh Tarek</h1>
 <h3 align="center">A Software Engineer undergraduate</h3>
 
 <div align="center">

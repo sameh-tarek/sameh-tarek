@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sameh Tarek</h1>
-<h3 align="center">I'm a software engineer undergraduate who is passionate about building web applications.</h3>
+<h3 align="center">I'm a Software Engineer who is passionate about building web applications. I primarily focus on the Backend side, My main stack is Java Spring. feel free to contact me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh1tarek&label=Profile%20views&color=0e75b6&style=flat" alt="sameh1tarek" /> </p>
 
-- 🌱 I’m currently learning **Java Spring**
-
+- 🎓 I'm a Senior CS Student @FCI - Menoufia University.
+- 🌱 I’m currently @**Fawry Internship**
 - 🏗 I'm excited to use **Java Spring to build powerful and user-friendly apps and learn more**.
-  
-- 📫 Email me **tarksame7@gmail.com**
+- 📫 Email me at [tarksame7@gmail.com](mailto:tarksame7@gmail.com)
+-  I’m currently open for a new Internship or Job opportunity. Here's [my resume.](https://drive.google.com/file/d/11i-N4odrjZ5ehgor7aRZoUz3IcseaKUk/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

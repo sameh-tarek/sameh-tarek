@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sameh Tarek</h1>
-<h3 align="center">I'm a Software Engineer who is passionate about building web applications. I primarily focus on the Backend side, My main stack is Java Spring. feel free to contact me.</h3>
+<h2 align="center">Ex-Software Engineer Intern @Fawry</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh1tarek&label=Profile%20views&color=0e75b6&style=flat" alt="sameh1tarek" /> </p>
 
-- 🎓 I'm a Senior CS Student @FCI - Menoufia University.
-- 🌱 I’m currently @**Fawry Internship**
-- 🏗 I'm excited to use **Java Spring to build powerful and user-friendly apps and learn more**.
-- 📫 Email me at [tarksame7@gmail.com](mailto:tarksame7@gmail.com)
--  I’m currently open for a new Internship or Job opportunity. Here's [my resume.](https://drive.google.com/file/d/11i-N4odrjZ5ehgor7aRZoUz3IcseaKUk/view?usp=sharing)
+- 🎓 Senior CS Student @FCI - Menoufia University
+- 🌱 I’m Currently Learning **Backend Engineering** and my main stack is **Java Spring Boot**
+- 📫 Email me at [sameh.tarek.fci@gmail.com](mailto:sameh.tarek.fci@gmail.com)
+- 💼 Currently open for a new Internship or Job opportunities. Here's [my resume](https://drive.google.com/file/d/1xN5ux6B845Za0LRAhEXaTfA-PAYpsvRa/view?usp=sharing).
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +17,34 @@
 <a href="https://www.leetcode.com/samehtarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samehtarek" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+</div>
+</div>
+
+###

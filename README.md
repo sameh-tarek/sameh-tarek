@@ -7,7 +7,7 @@
 
 - 🎓 Fresh Graduate from **Faculty of Computers and Information** at Menoufia University, Class of 2024.
 - 🌱 I’m Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
-- 💼 I’m open to **new job opportunities**. Feel free to check out [my resume](https://drive.google.com/file/d/1Ieq4UoDyi8VhkalllJYUk9bieaN-O5S5/view?usp=sharing).
+- 💼 I’m open to **new job opportunities**. Feel free to check out [my resume](https://drive.google.com/file/d/1FuBLESaXFfO5ytz14mYIEC0nd1csdCQQ/view?usp=sharing).
 - 📫 You can reach me at [sameh.tarek.fci@gmail.com](mailto:sameh.tarek.fci@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
